@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://exilland.gitlab.io/web/contact/</loc>
+    <lastmod>2020-10-26T14:38:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://exilland.gitlab.io/web/ru/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://exilland.gitlab.io/web/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://exilland.gitlab.io/web/archive/</loc>
+    <lastmod>2020-10-23T17:14:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exilland.gitlab.io/web/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://exilland.gitlab.io/web/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://exilland.gitlab.io/web/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://exilland.gitlab.io/web/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://exilland.gitlab.io/web/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://exilland.gitlab.io/web/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://exilland.gitlab.io/web/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://exilland.gitlab.io/web/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://exilland.gitlab.io/web/tags/"
+                />
+  </url>
+  
+</urlset>
