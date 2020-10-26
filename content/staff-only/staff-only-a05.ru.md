@@ -1,7 +1,7 @@
 ---
 title: "Alpha v0.5: В преддверии стима."
 date: 2020-10-26T13:01:45+01:00
-draft: true
+draft: false
 tags: ['staff-only', 'patch-notes']
 cover:
   image: staff-only/Fireplace.gif

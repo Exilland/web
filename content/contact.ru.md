@@ -1,5 +1,6 @@
 ---
 title: "Контакты"
+draft: false
 hideMeta: true
 disableShare: true
 ---
