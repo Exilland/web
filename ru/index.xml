@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exilland</title>
-    <link>https://exilland.gitlab.io/web/ru/</link>
+    <link>/ru/</link>
     <description>Recent content on Exilland</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://exilland.gitlab.io/web/ru/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Контакты</title>
-      <link>https://exilland.gitlab.io/web/ru/contact/</link>
+      <link>/ru/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://exilland.gitlab.io/web/ru/contact/</guid>
+      <guid>/ru/contact/</guid>
       <description>Наша почта: dev [at] exilland.dev
 Остальные ссылки можно найти на главной странице
 Также, можешь подписаться на рассылку с новостями и, иногда, бонусами (англ.):  Subscribe via EMail

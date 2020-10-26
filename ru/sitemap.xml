@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://exilland.gitlab.io/web/ru/categories/</loc>
+    <loc>/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://exilland.gitlab.io/web/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://exilland.gitlab.io/web/ru/categories/"
+                href="/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://exilland.gitlab.io/web/ru/</loc>
+    <loc>/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://exilland.gitlab.io/web/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://exilland.gitlab.io/web/ru/"
+                href="/ru/"
                 />
   </url>
   
   <url>
-    <loc>https://exilland.gitlab.io/web/ru/tags/</loc>
+    <loc>/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://exilland.gitlab.io/web/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://exilland.gitlab.io/web/ru/tags/"
+                href="/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://exilland.gitlab.io/web/ru/contact/</loc>
+    <loc>/ru/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://exilland.gitlab.io/web/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://exilland.gitlab.io/web/ru/contact/"
+                href="/ru/contact/"
                 />
   </url>
   
