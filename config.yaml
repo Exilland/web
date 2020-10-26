@@ -13,7 +13,7 @@ googleAnalytics: UA-178149880-4
 DefaultContentLanguage: en
 
 languages:
-  en:s
+  en:
     weight: 2
     LanguageName: English
   ru:
