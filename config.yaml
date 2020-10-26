@@ -1,4 +1,4 @@
-baseURL: 'https://exilland.gitlab.io/web/'
+baseURL: 'https://exilland.dev/'
 title: Exilland
 paginate: 5
 theme: hugo-PaperMod
@@ -13,7 +13,7 @@ googleAnalytics: UA-178149880-4
 DefaultContentLanguage: en
 
 languages:
-  en:
+  en:s
     weight: 2
     LanguageName: English
   ru:
