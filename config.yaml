@@ -1,4 +1,4 @@
-baseURL: 'https://examplesite.com'
+baseURL: 'https://exilland.gitlab.io/web/'
 title: Exilland
 paginate: 5
 theme: hugo-PaperMod
