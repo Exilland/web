@@ -3,21 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ru/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/ru/</loc>
+    <lastmod>2020-10-26T13:31:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +18,68 @@
   </url>
   
   <url>
+    <loc>/ru/staff-only/</loc>
+    <lastmod>2020-10-26T13:31:06+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/staff-only/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/staff-only/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/staff-only/staff-only-a05/</loc>
+    <lastmod>2020-10-26T13:01:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/staff-only/staff-only-a05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/staff-only/staff-only-a05/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/tags/patch-notes/</loc>
+    <lastmod>2020-10-26T13:01:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/patch-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/tags/staff-only/</loc>
+    <lastmod>2020-10-26T13:01:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/staff-only/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/staff-only/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/tags/</loc>
+    <lastmod>2020-10-26T13:01:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,6 +89,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/categories/"
                 />
   </url>
   

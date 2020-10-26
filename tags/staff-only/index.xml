@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exilland</title>
-    <link>/</link>
-    <description>Recent content on Exilland</description>
+    <title>staff-only on Exilland</title>
+    <link>/tags/staff-only/</link>
+    <description>Recent content in staff-only on Exilland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contacts</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 26 Oct 2020 14:38:37 +0100</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Our email: dev [at] exilland.dev
-Other links can be found on main page
-Also, you can subscribe to our email for news, updates and occasional bonuses:  Subscribe via EMail
- </description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Oct 2020 13:01:45 +0100</lastBuildDate><atom:link href="/tags/staff-only/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpha v0.5: Last alpha, but not the last patch</title>
       <link>/staff-only/staff-only-a05/</link>
@@ -26,15 +14,6 @@ Also, you can subscribe to our email for news, updates and occasional bonuses:  
       <guid>/staff-only/staff-only-a05/</guid>
       <description>And here we are, this is our last alpha patch. It took us some extra time, but things should go smoother from here on out. So, what&amp;rsquo;s new in this patch?
  Achievements (and rewards) Localization Bugfixes and improvements  Achievements (and rewards) In the main menu (which we&amp;rsquo;ve redone in preparations to the future changes) we have a new button: &amp;ldquo;Achievements&amp;rdquo;. They are a bit tricky to complete, but if you do, you will have a new card set (7-8 cards each) available in your next runs in the shop.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Fri, 23 Oct 2020 17:14:38 +0200</pubDate>
-      
-      <guid>/archive/</guid>
-      <description></description>
     </item>
     
   </channel>

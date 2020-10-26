@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exilland</title>
-    <link>/ru/</link>
-    <description>Recent content on Exilland</description>
+    <title>patch-notes on Exilland</title>
+    <link>/ru/tags/patch-notes/</link>
+    <description>Recent content in patch-notes on Exilland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 13:01:45 +0100</lastBuildDate><atom:link href="/ru/tags/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpha v0.5: В преддверии стима.</title>
       <link>/ru/staff-only/staff-only-a05/</link>
@@ -16,18 +16,6 @@
 Главное меню Стало просто попривлекательнее и появилась новая кнопка
 Достижения На данный момент доступны три достижения, каждое из которых откроет возможность получить новые карты, во время прохождения подземелья.
 За каждое достижение дается 7-8 новых карт, с особой игровой механикой.</description>
-    </item>
-    
-    <item>
-      <title>Контакты</title>
-      <link>/ru/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/contact/</guid>
-      <description>Наша почта: dev [at] exilland.dev
-Остальные ссылки можно найти на главной странице
-Также, можешь подписаться на рассылку с новостями и, иногда, бонусами (англ.):  Subscribe via EMail
- </description>
     </item>
     
   </channel>
