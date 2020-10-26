@@ -3,120 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ru/</loc>
+    <loc>https://exilland.dev/ru/</loc>
     <lastmod>2020-10-26T13:31:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://exilland.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/"
+                href="https://exilland.dev/ru/"
                 />
   </url>
   
   <url>
-    <loc>/ru/staff-only/</loc>
+    <loc>https://exilland.dev/ru/staff-only/</loc>
     <lastmod>2020-10-26T13:31:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/staff-only/"
+                href="https://exilland.dev/staff-only/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/staff-only/"
+                href="https://exilland.dev/ru/staff-only/"
                 />
   </url>
   
   <url>
-    <loc>/ru/staff-only/staff-only-a05/</loc>
+    <loc>https://exilland.dev/ru/staff-only/staff-only-a05/</loc>
     <lastmod>2020-10-26T13:01:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/staff-only/staff-only-a05/"
+                href="https://exilland.dev/staff-only/staff-only-a05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/staff-only/staff-only-a05/"
+                href="https://exilland.dev/ru/staff-only/staff-only-a05/"
                 />
   </url>
   
   <url>
-    <loc>/ru/tags/patch-notes/</loc>
+    <loc>https://exilland.dev/ru/tags/patch-notes/</loc>
     <lastmod>2020-10-26T13:01:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/patch-notes/"
+                href="https://exilland.dev/tags/patch-notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/patch-notes/"
+                href="https://exilland.dev/ru/tags/patch-notes/"
                 />
   </url>
   
   <url>
-    <loc>/ru/tags/staff-only/</loc>
+    <loc>https://exilland.dev/ru/tags/staff-only/</loc>
     <lastmod>2020-10-26T13:01:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/staff-only/"
+                href="https://exilland.dev/tags/staff-only/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/staff-only/"
+                href="https://exilland.dev/ru/tags/staff-only/"
                 />
   </url>
   
   <url>
-    <loc>/ru/tags/</loc>
+    <loc>https://exilland.dev/ru/tags/</loc>
     <lastmod>2020-10-26T13:01:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://exilland.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/"
+                href="https://exilland.dev/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>/ru/categories/</loc>
+    <loc>https://exilland.dev/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://exilland.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/categories/"
+                href="https://exilland.dev/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>/ru/contact/</loc>
+    <loc>https://exilland.dev/ru/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="https://exilland.dev/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/contact/"
+                href="https://exilland.dev/ru/contact/"
                 />
   </url>
   

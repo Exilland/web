@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Exilland</title>
-    <link>/tags/</link>
+    <link>https://exilland.dev/tags/</link>
     <description>Recent content in Tags on Exilland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:01:45 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 13:01:45 +0100</lastBuildDate><atom:link href="https://exilland.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>patch-notes</title>
-      <link>/tags/patch-notes/</link>
+      <link>https://exilland.dev/tags/patch-notes/</link>
       <pubDate>Mon, 26 Oct 2020 13:01:45 +0100</pubDate>
       
-      <guid>/tags/patch-notes/</guid>
+      <guid>https://exilland.dev/tags/patch-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>staff-only</title>
-      <link>/tags/staff-only/</link>
+      <link>https://exilland.dev/tags/staff-only/</link>
       <pubDate>Mon, 26 Oct 2020 13:01:45 +0100</pubDate>
       
-      <guid>/tags/staff-only/</guid>
+      <guid>https://exilland.dev/tags/staff-only/</guid>
       <description></description>
     </item>
     

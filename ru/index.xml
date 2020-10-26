@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exilland</title>
-    <link>/ru/</link>
+    <link>https://exilland.dev/ru/</link>
     <description>Recent content on Exilland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="https://exilland.dev/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpha v0.5: В преддверии стима.</title>
-      <link>/ru/staff-only/staff-only-a05/</link>
+      <link>https://exilland.dev/ru/staff-only/staff-only-a05/</link>
       <pubDate>Mon, 26 Oct 2020 13:01:45 +0100</pubDate>
       
-      <guid>/ru/staff-only/staff-only-a05/</guid>
+      <guid>https://exilland.dev/ru/staff-only/staff-only-a05/</guid>
       <description>Вот и пришла пора последнего альфа патча. В нем появилось очень много всего полезного и интересного! В этом обновлении мы приукрасили главное меню, сделали систему достижений, много новых карт, локализация на русский язык и множество багфиксов и кволити оф лайф фич.
 Главное меню Стало просто попривлекательнее и появилась новая кнопка
 Достижения На данный момент доступны три достижения, каждое из которых откроет возможность получить новые карты, во время прохождения подземелья.
@@ -20,10 +20,10 @@
     
     <item>
       <title>Контакты</title>
-      <link>/ru/contact/</link>
+      <link>https://exilland.dev/ru/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ru/contact/</guid>
+      <guid>https://exilland.dev/ru/contact/</guid>
       <description>Наша почта: dev [at] exilland.dev
 Остальные ссылки можно найти на главной странице
 Также, можешь подписаться на рассылку с новостями и, иногда, бонусами (англ.):  Subscribe via EMail
