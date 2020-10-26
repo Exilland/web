@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://exilland.dev'
 title: Exilland
 paginate: 5
 theme: hugo-PaperMod
