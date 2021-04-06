@@ -20,13 +20,14 @@ jobs:
           hugo-version: '0.82.0'
           # extended: true
 
+      - name: Build presskit
+        run: hugo --minify
+        working-directory: ./presskit
+
       - name: Build
         run: |
-          cd presskit
-          hugo --minify
-          mkdir ../presskit-dist
-          mv public ../presskit-dist/presskit
-          cd ..
+          mkdir presskit-dist
+          mv presskit/public presskit-dist/presskit
           hugo --minify
 
       - name: Deploy
