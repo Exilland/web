@@ -83,8 +83,6 @@ params:
     - name: discord
       url: 'https://discord.gg/EZBNA3wpMx'
 
-
-
 menu:
   main:
     - identifier: staff-only
@@ -94,3 +92,7 @@ menu:
     - identifier: contact
       name: Contacts
       url: /contact/
+
+staticDir:
+- static
+- presskit-dist
