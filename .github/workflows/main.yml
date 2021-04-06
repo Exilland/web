@@ -22,7 +22,11 @@ jobs:
 
       - name: Build
         run: |
-          
+          cd presskit
+          hugo --minify
+          mkdir ../presskit-dist
+          mv public ../presskit-dist/presskit
+          cd ..
           hugo --minify
 
       - name: Deploy
