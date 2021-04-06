@@ -30,7 +30,7 @@ We offer free review copies of our game on [Woovit](https://woovit.com/offer/sta
 
 ### Presskit
 
-You can find presskit here: [link](/staff-only/presskit)
+You can find presskit here: [link](/presskit/staff-only)
 
 ### Beta Trailer
 {{< youtube xehILfz053w >}}
