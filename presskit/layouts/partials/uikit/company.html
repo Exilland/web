@@ -31,10 +31,12 @@
 					</ul>
 				</div>
 				<div id="content" class="uk-width-medium-3-4">
-          {{ $header := (readDir $pathImages) }}
-          {{ if (where $header "Name" "header.png") }}
-          <img src="{{ $urlImages }}/header.png" class="header">
-          {{ end }}
+		  {{ if (fileExists $pathImages) }}		
+          	{{ $header := (readDir $pathImages) }}
+          	{{ if (where $header "Name" "header.png") }}
+          	<img src="{{ $urlImages }}/header.png" class="header">
+          	{{ end }}
+		  {{ end }}
           <div class="uk-grid">
 						<div class="uk-width-medium-2-6">
 							<h2 id="factsheet">Factsheet</h2>
