@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Staff Only on Exilland</title>
+    <title>Staff-onlies on Exilland</title>
     <link>https://exilland.dev/staff-only/</link>
-    <description>Recent content in Staff Only on Exilland</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="https://exilland.dev/staff-only/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Staff-onlies on Exilland</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://exilland.dev/staff-only/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alpha v0.5: Last alpha, but not the last patch</title>
-      <link>https://exilland.dev/staff-only/staff-only-a05/</link>
-      <pubDate>Mon, 26 Oct 2020 13:01:45 +0100</pubDate>
+      <title>Staff Only</title>
+      <link>https://exilland.dev/staff-only/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://exilland.dev/staff-only/staff-only-a05/</guid>
-      <description>And here we are, this is our last alpha patch. It took us some extra time, but things should go smoother from here on out. So, what&amp;rsquo;s new in this patch?
- Achievements (and rewards) Localization Bugfixes and improvements  Achievements (and rewards) In the main menu (which we&amp;rsquo;ve redone in preparations to the future changes) we have a new button: &amp;ldquo;Achievements&amp;rdquo;. They are a bit tricky to complete, but if you do, you will have a new card set (7-8 cards each) available in your next runs in the shop.</description>
+      <guid>https://exilland.dev/staff-only/presskit/</guid>
+      <description></description>
     </item>
     
   </channel>

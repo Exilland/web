@@ -4,8 +4,7 @@
     <title>Exilland</title>
     <link>https://exilland.dev/</link>
     <description>Recent content on Exilland</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 13:31:06 +0100</lastBuildDate><atom:link href="https://exilland.dev/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://exilland.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contacts</title>
       <link>https://exilland.dev/contact/</link>
@@ -13,19 +12,7 @@
       
       <guid>https://exilland.dev/contact/</guid>
       <description>Our email: dev [at] exilland.dev
-Other links can be found on main page
-Also, you can subscribe to our email for news, updates and occasional bonuses:  Subscribe via EMail
- </description>
-    </item>
-    
-    <item>
-      <title>Alpha v0.5: Last alpha, but not the last patch</title>
-      <link>https://exilland.dev/staff-only/staff-only-a05/</link>
-      <pubDate>Mon, 26 Oct 2020 13:01:45 +0100</pubDate>
-      
-      <guid>https://exilland.dev/staff-only/staff-only-a05/</guid>
-      <description>And here we are, this is our last alpha patch. It took us some extra time, but things should go smoother from here on out. So, what&amp;rsquo;s new in this patch?
- Achievements (and rewards) Localization Bugfixes and improvements  Achievements (and rewards) In the main menu (which we&amp;rsquo;ve redone in preparations to the future changes) we have a new button: &amp;ldquo;Achievements&amp;rdquo;. They are a bit tricky to complete, but if you do, you will have a new card set (7-8 cards each) available in your next runs in the shop.</description>
+Other links can be found on main page</description>
     </item>
     
     <item>
@@ -34,6 +21,24 @@ Also, you can subscribe to our email for news, updates and occasional bonuses:  
       <pubDate>Fri, 23 Oct 2020 17:14:38 +0200</pubDate>
       
       <guid>https://exilland.dev/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staff Only</title>
+      <link>https://exilland.dev/staff-only/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://exilland.dev/staff-only/</guid>
+      <description>Features  No action points or mana system, you can play all cards from your hand if you manage to connect them to each other    Plan your way through the dungeon either killing as many enemies as possible or going for a quick clear    Upgrade your deck by buying new cards in shop that is always availiable   Get free copy We offer free review copies of our game on Woovit</description>
+    </item>
+    
+    <item>
+      <title>Staff Only</title>
+      <link>https://exilland.dev/staff-only/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://exilland.dev/staff-only/presskit/</guid>
       <description></description>
     </item>
     
