@@ -9,6 +9,3 @@ disableShare: true
 ---
 Our email: dev \[at\] exilland.dev  
 Other links can be found on [main page](/)
-
-Also, you can subscribe to our email for news, updates and occasional bonuses:
-{{< tinyletter >}}

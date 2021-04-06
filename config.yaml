@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpored: false
 
-googleAnalytics: UA-178149880-4
+# googleAnalytics: UA-178149880-4
 
 DefaultContentLanguage: en
 
@@ -43,7 +43,7 @@ params:
   ShowReadingTime: true
   ShowToc: true
   TocOpen: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   comments: false
   defaultTheme: auto
   disableThemeToggle : false
@@ -74,14 +74,14 @@ params:
   socialIcons:
     - name: twitter
       url: 'https://twitter.com/exilland'
-    - name: vk
-      url: 'https://vk.com/staffonly_exilland'
     - name: gamejolt
       url: 'https://gamejolt.com/games/staffonly/541130'
     - name: itchio
       url: 'https://exilland.itch.io/staff-only'
     - name: steam
       url: 'https://store.steampowered.com/app/1440350/Staff_Only/'
+    - name: discord
+      url: 'https://discord.gg/EZBNA3wpMx'
 
 
 

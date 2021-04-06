@@ -63,3 +63,12 @@
 code {
     direction: ltr;
 }
+
+.center {
+    text-align: center;
+}
+
+.center img {
+    margin-left: auto;
+    margin-right: auto;
+}
