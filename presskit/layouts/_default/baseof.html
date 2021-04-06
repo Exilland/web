@@ -1,0 +1,5 @@
+{{ if (eq $.Page.Type "company") }}
+{{ partial "company.html" . }}
+{{ else }}
+{{ partial "game.html" . }}
+{{ end }}

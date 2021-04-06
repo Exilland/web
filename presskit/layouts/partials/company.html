@@ -1,0 +1,5 @@
+{{ if (eq $.Params.style "bootstrap") }}
+{{ partial "bootstrap/company.html" . }}
+{{ else }}
+{{ partial "uikit/company.html" . }}
+{{ end }}
